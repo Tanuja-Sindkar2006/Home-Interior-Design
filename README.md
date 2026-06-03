@@ -1,2 +1,2 @@
 # Home-Interior-Design
-A responsive Home Interior Design website built using HTML, CSS, JavaScript, and PHP. The platform showcases modern interior design ideas, room galleries, design services, and contact features to help users explore and plan beautiful living spaces.
+This project is a modern and responsive Home Interior Design Website developed to showcase interior design services, room inspirations, and home decoration ideas. The website provides an attractive user interface where users can explore different interior styles, view design galleries, learn about services, and contact designers for consultation.
