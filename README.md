@@ -3,7 +3,7 @@ This project is a modern and responsive Home Interior Design Website developed t
 ## 📸 Project Output
 
 <p align="center">
-  <img src="screenshots/Login.png" width="45%" alt="Login Page">
+  <img src="Home-interior-design-websites/screenshots/Login.png" width="45%" alt="Login Page">
   <img src="screenshots/Register.png" width="45%" alt="Register Page">
 </p>
 
